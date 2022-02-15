@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayerApp_Java</string>
+    <string name="todo">todo</string>
+    <string name="song_name">Song Name</string>
+    <string name="_0_10">0:10</string>
+    <string name="_4_10">4:10</string>
+</resources>
